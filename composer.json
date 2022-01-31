@@ -3,6 +3,11 @@
     "description": "Laravel Crud Generator with Column Filters",
     "license": "MIT",
     "authors": [
+        
+        {
+            "name": "Andy Webster",
+            "email": "andrelotripecus@gmail.com"
+        },
         {
             "name": "Daniel Scheff",
             "email": "scheff-code@gmail.com"
